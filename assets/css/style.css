@@ -1,0 +1,29 @@
+body {
+  background-color: blue;
+}
+
+.heading {
+  display: block;
+  text-align: right;
+  padding-right: 80px;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 110%;
+  /* or 70px */
+
+  color: #d3f8e9;
+}
+.emergen {
+  height: 60px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  
+
+  color: #ffffff;
+  padding-right: 80px;
+}
